@@ -28,8 +28,10 @@
 
 select {
     flex: 1;
+    background-color: transparent;
 }
 
 input {
     width: 100px;
+    background-color: transparent;
 }
